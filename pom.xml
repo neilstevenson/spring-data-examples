@@ -16,6 +16,7 @@
 	</parent>
 
 	<modules>
+		<module>hazelcast</module>
 		<module>jpa</module>
 		<module>map</module>
 		<module>mongodb</module>
